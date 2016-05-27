@@ -3,6 +3,8 @@ package pe.gob.mtc;
 import java.util.Date;
 
 public class Consulta {
+
+	private String dos;
 	private String  nuevo;
 	private Long id_Solicitud;
 	private Integer id_Entidad;
